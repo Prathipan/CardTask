@@ -1,0 +1,26 @@
+.visiting-card {
+    padding: 80px 50px;
+    color: white;
+    background-color: hsl(270deg 59% 17%);
+    font-family: 'Roboto', sans-serif;
+    width: 876px;
+}
+p{
+    color: hsl(0deg 1% 77%);
+}
+h1 {
+    margin: 0px;
+    padding: 0;
+}
+td {
+    margin: 100px;
+}
+.table-design {
+    margin-top: 50px;
+    font-size: 16px;
+}
+img {
+    width: 500px;
+    height: 410px;
+    background-blend-mode: hard-light;
+}
